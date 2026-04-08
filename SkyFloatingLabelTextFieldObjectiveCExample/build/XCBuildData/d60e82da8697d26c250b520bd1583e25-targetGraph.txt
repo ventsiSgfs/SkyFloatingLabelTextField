@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+SkyFloatingLabelTextField in Pods
+Pods-SkyFloatingLabelTextFieldObjectiveCExample in Pods, depends on:
+SkyFloatingLabelTextField in Pods (explicit)

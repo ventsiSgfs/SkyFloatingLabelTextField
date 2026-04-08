@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "20813372b9311dd38211cccd5fb47d90"
+build_time: [1622053809, 446727000]
+inputs:
+  "/Users/penka/Downloads/SkyFloatingLabelTextField-master/SkyFloatingLabelTextFieldObjectiveCExample/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextField.swift": [1622053807, 625155781]
+  "/Users/penka/Downloads/SkyFloatingLabelTextField-master/SkyFloatingLabelTextFieldObjectiveCExample/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextFieldWithIcon.swift": [1606888714, 0]
+  "/Users/penka/Downloads/SkyFloatingLabelTextField-master/SkyFloatingLabelTextFieldObjectiveCExample/Pods/SkyFloatingLabelTextField/Sources/UITextField+fixCaretPosition.swift": [1606888714, 0]

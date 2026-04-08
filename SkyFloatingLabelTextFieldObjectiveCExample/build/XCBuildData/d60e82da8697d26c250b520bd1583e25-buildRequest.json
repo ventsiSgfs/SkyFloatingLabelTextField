@@ -1,0 +1,60 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "c07c29e4c5b429aff7349a93618462b354c24b80a49e6c6cff2c7bb512496e66"
+    },
+    {
+      "guid" : "c07c29e4c5b429aff7349a93618462b3aba5b1a0bcfa0dc5a566d1a83f79cc0e"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/penka/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/penka/Library/Developer/Xcode/DerivedData/Pods-fpiykpndbwavjrhergaremklsmml/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/penka/Library/Developer/Xcode/DerivedData/Pods-fpiykpndbwavjrhergaremklsmml/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "5F9BEADE-5C31-429D-BFFD-FBF6EABB92B7",
+          "TARGET_DEVICE_MODEL" : "iPhone12,5",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
